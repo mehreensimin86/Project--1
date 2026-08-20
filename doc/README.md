@@ -7,9 +7,6 @@ This folder contains the project documentation for **PowerPuff Quest**.
 
 ## Project Info
 - **Course:** CSE 100 – Software Development Project I
-- **Supervisor:** Mastura Sadaf, Lecturer, Department of CSE, BUBT
+- CSE,BUBT
+-
 
-## Team Members
-| Name | ID | Intake/Section |
-|---|---|---|
-| Rezowana Hossain | 20254103252 | 56/07
